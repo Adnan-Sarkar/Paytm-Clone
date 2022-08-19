@@ -8,9 +8,9 @@ I'm `Adnan Sarkar`. This is the `paytm clone` assignment in my [Full Stack Javas
 - Tailwind CSS
 
 ## 🖥 Preview
-[Live Preview]()
+[Live Preview](https://paytm-clone-by-adnan-sarkar.netlify.app/)
 
-![]()
+![](Paytm%20Clone.png)
 
 ##  What I have learned in this project?
 - How to start Tailwind css without javascript.
